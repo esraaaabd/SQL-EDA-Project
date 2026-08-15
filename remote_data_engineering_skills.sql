@@ -46,5 +46,17 @@ limit 20;
 └────────────┴───────────┘
   20 rows      2 columns
 
+/*
+Conclusion:
+SQL and Python are the two most frequently required skills for remote Data
+Engineering roles, followed by major cloud and data platforms such as AWS,
+Azure, Spark, Airflow, Snowflake, and Databricks.
 
+The results highlight that remote Data Engineering positions strongly favor
+a combination of programming, SQL, cloud computing, data processing, and
+workflow orchestration skills. Building a foundation in SQL and Python,
+then developing expertise in cloud platforms and tools such as Spark and
+Airflow, appears to align well with the technical requirements of remote
+Data Engineering opportunities.
+*/
   
