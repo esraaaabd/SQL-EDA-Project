@@ -50,3 +50,19 @@ limit 25;
 │ go            │      140000.0 │         113 │
 └───────────────┴───────────────┴─────────────┘
   25 rows                           3 columns
+
+/*
+Conclusion:
+The results show that the highest-paying skills are not always the most
+in-demand. Rust has the highest median salary at $210K, followed by
+Terraform and Golang at $184K.
+
+Among skills with stronger demand, Terraform, Airflow, Kafka, Spark, and
+Kubernetes stand out for combining high median salaries with a meaningful
+number of job postings.
+
+Overall, specialized skills can offer higher compensation, but skills such
+as Terraform, Airflow, Kafka, and Spark provide a stronger balance between
+salary and market demand, making them more practical targets for skill
+development.
+*/  
